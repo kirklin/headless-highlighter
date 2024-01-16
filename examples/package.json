@@ -20,9 +20,9 @@
   },
   "dependencies": {
     "@kirklin/logger": "^0.0.2",
-    "headless-highlighter": "workspace:*",
     "@kirklin/reset-css": "^0.0.3",
     "@vueuse/core": "^10.7.2",
+    "headless-highlighter": "workspace:*",
     "lodash-es": "^4.17.21",
     "nprogress": "^0.2.0",
     "vue": "^3.4.14",
